@@ -1,0 +1,29 @@
+{
+'Website_link': 
+['https://www.python.org/', 
+'https://en.wikipedia.org/wiki/Python_(programming_language)', 
+'https://www.w3schools.com/python/', 
+'https://www.java.com/', 
+'https://en.wikipedia.org/wiki/Java_(programming_language)', 
+'https://www.infoworld.com/article/3653331/jdk-19-java-19-begins-to-take-shape.html'], 
+
+'website_video_link': 
+['https://www.youtube.com/watch?v=rfscVS0vtbw&vl=en', 
+'https://www.youtube.com/watch?v=_uQrJ0TkZlc&vl=en', 
+'https://www.youtube.com/watch?v=kqtD5dpn9C8', 
+'https://www.oracle.com/topics/technologies/newtojava/programming-center.html', 
+'https://www.youtube.com/watch?v=eIrMbAQSU34', 
+'https://www.youtube.com/watch?v=grEKMHGYyns'], 
+
+'youtube_link': 
+['https://www.youtube.com/watch?v=rfscVS0vtbw', 
+'https://www.youtube.com/watch?v=xk4_1vDrzzo']
+}
+
+{"a": [[],[]]}
+{'Website_link': 
+[['https://www.cnn.com/2022/03/15/us/mississippi-assistant-principal-book-termination/index.html', 
+'https://www.nytimes.com/2022/03/15/books/review/true-biz-sara-novic.html', 
+'https://lithub.com/the-rich-and-secret-life-of-a-writer-of-reading-guides/'], 
+['https://www.java.com/', 'https://en.wikipedia.org/wiki/Java_(programming_language)', 'https://www.infoworld.com/article/3653331/jdk-19-java-19-begins-to-take-shape.html']], 'website_video_link': [[], [], 'https://www.youtube.com/watch?v=iTSA0W1qsUM', 'https://www.youtube.com/watch?v=orRE8cp36rw', 'https://austinkleon.com/steal/', 'https://www.oracle.com/topics/technologies/newtojava/programming-center.html', 'https://www.youtube.com/watch?v=eIrMbAQSU34', 'https://www.youtube.com/watch?v=grEKMHGYyns'], 
+'youtube_link': [['https://www.youtube.com/watch?v=SZjZN7Rs3a8'], ['https://www.youtube.com/watch?v=xk4_1vDrzzo']]}
